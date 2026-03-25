@@ -74,17 +74,10 @@ matplotlib>=3.7.0
 numpy>=1.24.0
 scikit-learn>=1.3.0
 torch>=2.0.0
-anthropic>=0.20.0
+
 ```
 
-### API key (Problem 2 only, one-time)
-Problem 2 Task 0 uses the Claude API to generate 1000 Indian names. This only runs once — if `TrainingNames.txt` already exists the API is never called again.
 
-```bash
-export ANTHROPIC_API_KEY=sk-ant-your-key-here
-```
-
----
 
 ## Problem 1 — Word Embeddings from IIT Jodhpur Data
 
