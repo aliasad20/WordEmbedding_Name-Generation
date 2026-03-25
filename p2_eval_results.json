@@ -1,0 +1,20 @@
+{
+  "VanillaRNN": {
+    "novelty": 0.585,
+    "diversity": 0.96,
+    "final_loss": 1.426828183233738,
+    "n_generated": 200
+  },
+  "BLSTM": {
+    "novelty": 1.0,
+    "diversity": 1.0,
+    "final_loss": 0.00033385724600520916,
+    "n_generated": 102
+  },
+  "AttentionRNN": {
+    "novelty": 1.0,
+    "diversity": 0.41708542713567837,
+    "final_loss": 0.0008145929823513143,
+    "n_generated": 199
+  }
+}
