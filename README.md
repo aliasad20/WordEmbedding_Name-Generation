@@ -199,7 +199,7 @@ python assignment2_p2.py --task 2   # evaluate: novelty, diversity, qualitative 
 
 | Task | Input | Output |
 |------|-------|--------|
-| Task 0 | Claude API (one-time) | `TrainingNames.txt` (1000 Indian names) |
+| Task 0 | Gemini (one-time) | `TrainingNames.txt` (1000 Indian names) |
 | Task 1 | `TrainingNames.txt` | `rnn_model.pt`, `blstm_model.pt`, `attn_model.pt`, `p2_loss_curves.png` |
 | Task 2 | All three `.pt` files | `generated_VanillaRNN.txt`, `generated_BLSTM.txt`, `generated_AttentionRNN.txt`, `p2_evaluation.png`, `p2_eval_results.json` |
 
